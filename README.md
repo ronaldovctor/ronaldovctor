@@ -4,7 +4,7 @@
 - 🧑‍💻 Pode me considerar programador Front-End, mas com um pé no Back-End.
 - 🎮 Adora um jogo e umas séries. Não é mesmo Geralt? <img src="https://c.tenor.com/oCMCJWHqRoMAAAAj/ok.gif" height="35px" />
 
-<br/><br/><br/>
+<br/>
 
 <h2>Já dei uma olhada</h2>
 <div style="display: inline_block"><br>
