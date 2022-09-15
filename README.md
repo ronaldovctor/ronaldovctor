@@ -20,7 +20,7 @@
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
 
-<br/><br/>
+<br/>
 
 <h4>Estou por aqui<h4/>
 <div>
