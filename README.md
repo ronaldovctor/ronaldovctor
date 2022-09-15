@@ -1,5 +1,5 @@
 <h1>Eae, Ronaldo aqui <img src="https://c.tenor.com/c-5wsAjypmgAAAAj/pepe-pepe-the-frog.gif" height="35px"/></h1>
-<img align="right" height="380" src="https://i.pinimg.com/originals/1a/04/6d/1a046dddab19c5a9787139de244ca2ac.jpg"/>
+<img align="right" height="300" src="https://media1.giphy.com/media/l3978y5HqiEtqupiM/giphy.gif"/>
 
 - 🧑‍💻 Pode me considerar programador Front-End, mas com um pé no Back-End.
 - 🎮 Adora um jogo e umas séries. Não é mesmo Geralt? <img src="https://c.tenor.com/oCMCJWHqRoMAAAAj/ok.gif" height="35px" />
@@ -16,6 +16,7 @@
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
   <img align="center" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 </div>
@@ -29,7 +30,7 @@
       <a href="https://www.twitch.tv/ronaldovctor" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"/>
 </div>
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
 <div align="center">
   <a href="https://github.com/ronaldovctor">
